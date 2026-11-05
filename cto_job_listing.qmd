@@ -1,0 +1,86 @@
+---
+title: "Chief Technology Officer"
+subtitle: "Tarnwell Aerosystems | Broomfield, Colorado"
+format:
+  pdf:
+    documentclass: article
+    fontsize: 10pt
+    geometry: margin=0.9in
+    pagestyle: empty
+    include-in-header:
+      text: |
+        \makeatletter\let\ps@plain\ps@empty\makeatother
+---
+
+## About the Company
+
+Tarnwell Aerosystems is a mid-sized aerospace engineering company that designs and manufactures flight control computers, avionics, and electromechanical actuation systems for commercial and business aircraft. Founded in 1987 and headquartered in Broomfield, Colorado, the company has about 2,000 employees and annual revenue of about $650 million. Its products are certified for service on more than 40 aircraft platforms.
+
+## Role Summary
+
+The CTO reports to the CEO, serves on the executive team, and owns technology strategy, research and development, engineering execution, and technical risk. The role carries responsibility for an engineering organization of about 600 people and an annual research and development budget of about $75 million. You will set the technical direction for the company's products, establish research and development priorities, and ensure that engineering programs deliver safe, certifiable systems on schedule and within budget.
+
+## Key Responsibilities
+
+- Define the company's technology strategy and maintain a five-year technology roadmap aligned with product and business plans.
+- Set research and development priorities and allocate the annual budget across product programs and early-stage technology projects.
+- Oversee engineering execution across concurrent development programs, including regular reviews of schedule, cost, and technical performance.
+- Identify, assess, and manage technical risk through a company-wide risk register, and report status to the CEO monthly and to the board quarterly.
+- Ensure that products and engineering processes meet applicable certification and quality standards, and direct the company's technical work during certification programs and quality audits.
+- Build and develop the engineering organization, including workforce planning, technical career paths, and the four Vice Presidents who report to the CTO.
+- Represent the company's technical position with customers, regulators, and partners, including aircraft manufacturers, aviation authorities, and key suppliers.
+
+{{< pagebreak >}}
+
+## Preferred Qualifications
+
+Qualifications are listed in priority order. Relevant experience and executive leadership are the highest priorities, followed by technical skills. Education and leadership and communication skills are also valued.
+
+### Relevant Experience (Highest Priority)
+
+- 10 or more years of relevant industry experience, including at least 5 years in senior technical leadership, is preferred.
+- Relevant industry experience means engineering or technology work in aerospace, defense, or a comparable regulated, safety-critical industry.
+- Senior technical leadership means roles such as chief engineer or director of engineering, or higher.
+- Relevant experience is evaluated up to 15 years. Additional years do not further strengthen an application.
+
+### Executive Leadership (Highest Priority)
+
+- Experience at the Vice President level or above is preferred.
+- Executive scope means leading an organization of 100 or more people and managing a budget of $50 million or more.
+- Executive experience includes accountability for strategy and for reporting to a CEO, board, or equivalent.
+
+### Technical Skills (High Priority)
+
+- Systems engineering, including model-based systems engineering
+- Aerospace product development across the full lifecycle
+- Certification and quality standards, such as DO-178C and AS9100
+- Technology roadmap development and technical risk management
+
+### Education (Valued)
+
+- An M.S. or PhD in a related field is preferred. A PhD is the strongest qualification in this category.
+- Related fields are aerospace, mechanical, electrical, or systems engineering, computer science, and physics.
+
+### Leadership and Communication Skills (Valued)
+
+- Communicating technical decisions to executive and non-technical audiences
+- Building and developing engineering teams
+- Managing relationships with customers, regulators, and partners
+
+These skills should be demonstrated through specific results, not self-description.
+
+## Position Details
+
+- **Reports to:** Chief Executive Officer
+- **Direct reports:** Vice Presidents of Systems Engineering, Software and Avionics, Research and Technology, and Product Assurance
+- **Location:** Company headquarters in Broomfield, Colorado
+- **Employment type:** Full-time
+
+## Compensation and Benefits
+
+- **Base salary:** $290,000 to $350,000 per year
+- **Annual bonus:** Target of 40 percent of base salary, based on company performance
+- **Long-term incentive:** Annual award that vests over four years
+- **Insurance:** Medical, dental, vision, life, and disability coverage
+- **Retirement savings:** 401(k) plan with a company match of up to 5 percent of salary
+- **Paid time off:** 25 days per year, plus 10 company holidays
